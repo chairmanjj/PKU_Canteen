@@ -1,5 +1,5 @@
 #!/bin/bash
-cd ~/PKU_Canteeni
+cd ~/codes/PKU_Canteen
 git add data
 git commit -m "auto git push"
 git push
